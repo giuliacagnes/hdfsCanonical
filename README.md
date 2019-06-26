@@ -72,7 +72,7 @@ $ cd hdfs2canonicalAwkConverter
 Launch the script with:
 
 ```
-$ ./hdfs2canonical.sh sample/file_output_10 > file_output_10.tsv
+$ ./hdfs2canonical.sh file_output_10 > file_output_10.tsv
 ```
 
 ### Author

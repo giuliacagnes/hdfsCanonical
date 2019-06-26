@@ -1,0 +1,10 @@
+drwxr-xr-x   - halsys hadoop          0 2019-06-03 16:14 hdfs://halprod/user/halsys/parse/halparsepldpolicydb/cfxml
+-rw-r--r--   3 halsys hadoop          0 2019-06-03 16:14 hdfs://halprod/user/halsys/parse/halparsepldpolicydb/cfxml/_SUCCESS
+drwxr-xr-x   - halsys hadoop          0 2019-05-24 10:54 hdfs://halprod/user/halsys/parse/halparsepldpolicydb/cfxml/load_date=2016-08-04
+-rw-r--r--   3 halsys hadoop      20770 2019-05-24 10:54 hdfs://halprod/user/halsys/parse/halparsepldpolicydb/cfxml/load_date=2016-08-04/part-01093-0e9f1908-9f97-4305-9a61-44f652efea11.snappy.orc
+-rw-r--r--   3 halsys hadoop       9877 2019-05-24 10:54 hdfs://halprod/user/halsys/parse/halparsepldpolicydb/cfxml/load_date=2016-08-04/part-01094-0e9f1908-9f97-4305-9a61-44f652efea11.snappy.orc
+-rw-r--r--   3 halsys hadoop      18741 2019-05-24 10:54 hdfs://halprod/user/halsys/parse/halparsepldpolicydb/cfxml/load_date=2016-08-04/part-01095-0e9f1908-9f97-4305-9a61-44f652efea11.snappy.orc
+-rw-r--r--   3 halsys hadoop      15802 2019-05-24 10:54 hdfs://halprod/user/halsys/parse/halparsepldpolicydb/cfxml/load_date=2016-08-04/part-01096-0e9f1908-9f97-4305-9a61-44f652efea11.snappy.orc
+-rw-r--r--   3 halsys hadoop       8574 2019-05-24 10:54 hdfs://halprod/user/halsys/parse/halparsepldpolicydb/cfxml/load_date=2016-08-04/part-01097-0e9f1908-9f97-4305-9a61-44f652efea11.snappy.orc
+-rw-r--r--   3 halsys hadoop      16484 2019-05-24 10:54 hdfs://halprod/user/halsys/parse/halparsepldpolicydb/cfxml/load_date=2016-08-04/part-01098-0e9f1908-9f97-4305-9a61-44f652efea11.snappy.orc
+-rw-r--r--   3 halsys hadoop      34908 2019-05-24 10:54 hdfs://halprod/user/halsys/parse/halparsepldpolicydb/cfxml/load_date=2016-08-04/part-01099-0e9f1908-9f97-4305-9a61-44f652efea11.snappy.orc

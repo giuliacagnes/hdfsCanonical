@@ -69,11 +69,15 @@ $ cd hdfs2canonicalAwkConverter
 
 ### Usage
 
-Launch the script with:
+Launch the script using multiple awk scripts:
+```
+$ ./hdfs2canonical.sh sample/file_output_10 > file_output_10.tsv
+```
+Launch the script using a single awk script total:
+```
+$ ./hdfs2canonical2.sh sample/file_output_10 > file_output_10.tsv
+```
 
-```
-$ ./hdfs2canonical.sh file_output_10 > file_output_10.tsv
-```
 
 ### Author
 
